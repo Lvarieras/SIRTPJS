@@ -1,2 +1,1 @@
-# SIRTPJS
- This is the TP6 of SIR using JS
+TP Web : Javascript et HTML5
